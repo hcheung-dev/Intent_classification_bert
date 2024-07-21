@@ -3,6 +3,8 @@
 ## Objective
 Experiment with a pre-trained BERT model on a text classification task to understand how BERT works.
 
+![alt text](image/bert.png)
+
 ## Data
 ATIS (Airline Travel Information Systems) Dataset: https://github.com/howl-anderson/ATIS_dataset
 
