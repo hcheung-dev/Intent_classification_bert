@@ -20,6 +20,10 @@ Pretrained bert-base-uncased: https://huggingface.co/google-bert/bert-base-uncas
 ## Results
 Achieved a weighted f1 score ~ 97.7%
 
+<div align="center">
+  <img src="image/confusion_matrix.png" alt="confusion matrix">
+</div>
+
 ## Device
 1 NVIDIA GeForce GTX 1080 Ti
 
