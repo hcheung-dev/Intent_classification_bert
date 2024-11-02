@@ -27,7 +27,7 @@ Achieved a weighted f1 score ~ 97.7%
 ## Device
 1 NVIDIA GeForce GTX 1080 Ti
 
-## Software and Libaries
+## Software and Libraries
 - Python 3.9
 - Scikit-learn
 - Tensorflow
